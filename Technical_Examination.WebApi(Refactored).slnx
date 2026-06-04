@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="TechnicalExam.Tests(Refactored)/TechnicalExam.Tests(Refactored).csproj" />
+  <Project Path="Technical_Examination.WebApi(Refactored)/Technical_Examination.WebApi(Refactored).csproj" />
+</Solution>

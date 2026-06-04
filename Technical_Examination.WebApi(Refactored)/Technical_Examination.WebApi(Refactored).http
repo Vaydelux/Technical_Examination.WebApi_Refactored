@@ -1,0 +1,6 @@
+@Technical_Examination.WebApi_Refactored__HostAddress = http://localhost:5188
+
+GET {{Technical_Examination.WebApi_Refactored__HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
